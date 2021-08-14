@@ -1,0 +1,4 @@
+* runnergame
+A simple runner game like Subway Surfers written in Ruby.
+** Playing
+Just press W. That will move the character.
